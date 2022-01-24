@@ -9,7 +9,7 @@
 - 📫 How to reach me **aakanksha2700s@gmail.com**
 - ❤ I love Open Source
 - 💻 I'm a self-taught web developer
-- 🎓 I'm a Computer Science student
+- 🎓 I'm an MCA student
 - 📚 After coding comes reading
 
 <h3 align="left">Connect with me:</h3>
